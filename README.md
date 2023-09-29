@@ -1,11 +1,10 @@
-# Innovation and Impact Hub (TRIC-DT)
+# Turing Research and Innovation Cluster in Digital Twins (TRIC-DT)
 
-Welcome to the the repository for the Innovation and Impact Hub (Turing Research and Innovation Cluster in Digital Twins).
+Welcome to the the repository for the Turing Research and Innovation Cluster in Digital Twins.
 
 ![An illustration of a digital twin for a city.](./assets/images/digital-twin.jpg)
 
 This repository is for sharing and developing community resources and activities.
-For information about the TRIC-DT and the Innovation and Impact Hub see the [about section below](#about-ℹ️).
 
 ## Repository Contents 📚
 
@@ -41,5 +40,5 @@ The Innovation and Impact Hub (hereafter, the Hub) was set up to support the goa
 2. Produce open and reproducible computational tools for DT design, development, and deployment that facilitate scaling of DTs and provide these tools as a freely available resource.
 3. Build a multidisciplinary community of practice in digital twinning that democratises access to DT technology.
 
-For instance, the Hub team will lead and co-develop usable resources that facilitate collaborative impact and innovation that is trustworthy and responsible (e.g. knowledge commons, case studies, skills and capabilities building.
-This work will be undertaken alongside focused understanding and evaluation of needs and challenges faced by the TRIC-DT community (e.g. internal and external stakeholder engagement, participatory design workshops for research infrastructure).
+The Hub team leads and co-develop usable resources that facilitate collaborative impact and innovation that is trustworthy and responsible (e.g. knowledge commons, case studies, skills and capabilities building.
+This work is undertaken alongside focused understanding and evaluation of needs and challenges faced by the TRIC-DT community (e.g. internal and external stakeholder engagement, participatory design workshops for research infrastructure).
