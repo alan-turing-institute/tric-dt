@@ -11,13 +11,15 @@
 - [ ] Edit intro slide to show via screenshare at start of call; contains agenda, link to collaborative notes doc 
 
 - [ ] Run Seminar
+  - *see also Turing Way recommendations for best practices on [chairing remote talks](https://deploy-preview-1567--the-turing-way.netlify.app/collaboration/remote-collab/remote-collab-chairs.html)*
   - Open Zoom call 5 minutes in advance
   - Announce & Start recording *do we want to record and where do we share videos?*
   - 5 past, introduce topic, read out any announcements / opportunities, share HackMD with resources & glossary
   - 10 past, hand over to speaker, monitor chat for questions
-  - 30 minutes before end, open & moderate discussion
+  - 30 minutes before end, open & moderate discussion, for this bit ask people to turn on their cameras if possible.
   - 5 minutes before end, announce upcoming event & close
 
 - [ ] Extract transcript / Archive notes and share on GitHub repo
 - [ ] Change tag for event to `3/completed`
 - [ ] Record attendance numbers, note any highlights and share with the tric-dt team
+
