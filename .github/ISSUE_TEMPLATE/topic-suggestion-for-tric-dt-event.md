@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-#Topic
-## Why is this relevant for your work?
+**Topic**
+A suggested title for a session or a talk within a session
 
-## Why does the topic relate to the tric-dt themes?
-_Consider at least two of the three themes health, natural environment and infrastructure
+**How is the topic relevant to the tric-dt themes?**
+Consider at least two of the three themes health, natural environment and infrastructure
 
-## In what way does the topic relate to the wider topic of digital twins?
+**How does it relate to the wider topic of digital twinning?**
 
-## Suggested speakers or contributors
-_you can name yourself or others. Being named does not obligate anyone to participate
+**Suggested speakers or contributors**
+You can name yourself or others. Being named does not obligate anyone to participate
 
+**Any resources you can recommend on this topic?**
+Drop any links or references here that could help other people relate this to their own domains
 
-## Any resources you can recommend on this topic?
-
-## What format do you think would serve this topic best?
-_e.g. seminar series, but in the future we might want to organize co-working or discussion sessions
+**What format do you think would serve this topic best?**
+e.g. seminar series, but in the future we might want to organize co-working or discussion sessions
