@@ -15,7 +15,7 @@ We are currently finding dates for first seminars in November & December. If you
 ## Sign-up as a presenter
 For existing topics, sign up as a presenter by **assigning yourself to an issue** with label `seminar series` and then **commenting with a title** and a few sentences describing your presentations. We will assign a date to each session, once we have researchers from at least two different themes signed up.
 
-We will label issues with `0/idea`, `1/assigned`, `2/scheduled` and `3/completed`.
+We will label issues with `0/idea`, `1/in planning`, `2/scheduled` and `3/completed`.
 
 ## Propose a topic
 We’ve opened an issue in this repository for each topic we’re considering. We'd like your input and "votes" on these, and your suggestions for other topics we haven't thought of. We want to invite everyone to collaborate on shaping this seminar series in something that serves the TRIC-DT research community best.
