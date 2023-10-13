@@ -5,7 +5,7 @@ Welcome to our TRIC-DT Seminar Series!
 
 The “Crafting Digital Twins: Computational Methods Across Environment, Health & Infrastructure” seminar series will be an interdisciplinary platform for TRIC-DT researchers to share and discuss about the computational methods, algorithms, and models that underpin Digital Twin technology in diverse fields. This series will provide a space for exchange of knowledge and methodologies across the themes of environment, health, and infrastructure, with the aim to cultivate a unified vocabulary and uncover synergies in our work across TRIC-DT.
 
-By uniting researchers to discuss the methodological hurdles in their foundational work, this series will offer immediate value to each team member, enabling you to acquire practical insights applicable to projects at any stage, no matter how “DT-ready”. Beyond the technical learnings, presenting to a broader peer group allows us to see common challenges from fresh perspectives, potentially igniting innovative solutions to our problems.
+By focusing on the methodological hurdles of the foundational work, this series will offer immediate value to researchers and developers, enabling everyone to acquire practical insights applicable to their project at any stage, no matter how “DT-ready”. Beyond the technical learnings, presenting to a broader peer group allows us to see common challenges from fresh perspectives, potentially igniting innovative solutions to common problems.
 
 # Take Part!
 
