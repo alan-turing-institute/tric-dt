@@ -7,6 +7,12 @@ The “Crafting Digital Twins: Computational Methods Across Environment, Health 
 
 By focusing on the methodological hurdles of the foundational work, this series will offer immediate value to researchers and developers, enabling everyone to acquire practical insights applicable to their project at any stage, no matter how “DT-ready”. Beyond the technical learnings, presenting to a broader peer group allows us to see common challenges from fresh perspectives, potentially igniting innovative solutions to common problems.
 
+Each Seminar will follow roughly this format:
+- Total of 1,5 hour duration
+- 10 minutes of welcome & TRIC-DT announcements
+- 2 x 15 - 20 minute talks (from different themes)
+- Plenty of room for Q&A and discussions
+
 # Take Part!
 
 ## Next events
