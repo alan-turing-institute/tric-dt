@@ -30,4 +30,8 @@ We’ve opened an issue in this repository for each topic we’re considering. W
 - Suggest a topic by opening a new issue
 - Add to an existing idea: propose speakers, resources, how would this topic fit into your work?
 
+</br>
+
+> 🚧 **Code of Conduct**  
+> Our code of conduct is currently in progress. Until then, we expect all participants to uphold principles of respect and inclusivity. Inappropriate behavior may result in exclusion from our seminar series or activities.
 
