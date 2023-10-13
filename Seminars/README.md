@@ -19,7 +19,7 @@ Each Seminar will follow roughly this format:
 We are currently finding dates for first seminars in November & December. If you haven't received an email about this, please email sarana@turing.ac.uk for the doodle link
 
 ## Sign-up as a presenter
-For existing topics, sign up as a presenter by **assigning yourself to an issue** with label `seminar series` and then **commenting with a title** and a few sentences describing your presentations. We will assign a date to each session, once we have researchers from at least two different themes signed up.
+For existing topics, sign up as a presenter by **assigning yourself** to an [issue with label `seminar series`](https://github.com/alan-turing-institute/tric-dt/issues?q=is%3Aopen+is%3Aissue+label%3A%22seminar+series%22) and then **commenting with a title** and a few sentences describing your presentations. We will assign a date to each session, once we have researchers from at least two different themes signed up.
 
 We will label issues with `0/idea`, `1/in planning`, `2/scheduled` and `3/completed`.
 
