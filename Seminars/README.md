@@ -17,7 +17,7 @@ Each Seminar will follow roughly this format:
 - 2 x 15 minute talks (from different themes)
 - 15 min open discussion space, to explore the presentation topics
 
-Seminars will be hosted by Sophie Arana (@aranas) & , please email us with any questions!
+Seminars will be hosted by [Sophie Arana](https://www.turing.ac.uk/people/dr-sophie-arana) & , please email us with any questions!
 
 # Take Part!
 
