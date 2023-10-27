@@ -17,10 +17,20 @@ Each Seminar will follow roughly this format:
 - 2 x 15 minute talks (from different themes)
 - 15 min open discussion space, to explore the presentation topics
 
+Seminars will be hosted by Sophie Arana (@aranas) & , please email us with any questions!
+
 # Take Part!
 
 ## Attend a seminar
 Please join the Turing Digital Twins slack channel (#digital-twins) and stay tuned for updates and invites to the seminars. Why not introduce yourself while you're there?! 👋
+
+Upcoming sessions:
+
+| Date       | Time  | Topic | Room   | Speakers          |
+|------------|-------|-------|--------|-------------------|
+| 2023-11-23 | 13:00 | [Emulators for Scaling-up Simulations](https://github.com/alan-turing-institute/tric-dt/issues/12)   | Remote (Zoom)    | [Marina Strocchi](https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi) & [Martin Stoffel](https://www.turing.ac.uk/people/research-engineering/martin-stoffel)      |
+| 2023-01-07 | 13:00 | TBD   | TBD    | TBD     |
+
 
 ## What should the seminars cover?
 We’ve opened an issue in this repository for each topic we’re considering. We'd like your input and "votes" on these, and your suggestions for other topics we haven't listed! We'd like for this series to be lead by your needs, interests and activities as researchers in these fields, so we can make a space to progress *your* priorities. We invite you to shape this seminar series into a valuable space for the TRIC-DT research community.
