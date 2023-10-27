@@ -7,15 +7,15 @@ Welcome to our TRIC-DT Seminar Series!
 
 The “Crafting Digital Twins: Computational Methods Across Environment, Health & Infrastructure” seminar series will be an interdisciplinary platform for TRIC-DT researchers to share and discuss the computational methods, algorithms, and models that underpin Digital Twin technology across diverse fields. 
 
-This series will provide a space for exchange of knowledge and methodologies across the themes of natural environment, health, and infrastructure, with the aim of cultivating a unified vocabulary and synergies in our work across the TRIC-DT community.
+This series will provide a space for exchange of knowledge and methodologies across the themes of natural environment, health, and infrastructure. The aim is to cultivate a unified vocabulary and find synergies in our work across the TRIC-DT community.
 
-By focusing on the methodological hurdles of the foundational work, this series will offer immediate value to researchers and developers, enabling everyone to acquire practical insights applicable to their project at any stage, no matter how “DT-ready”. Beyond the technical learnings, presenting to a broader peer group allows us to see common challenges from fresh perspectives, potentially igniting innovative solutions to common problems.
+By focusing on shared methods this series will offer immediate value to researchers and developers, enabling everyone to get practical insights applicable to their project at any stage, no matter how “DT-ready”. Beyond the technical learnings, presenting to a broader peer group allows us to see common challenges from fresh perspectives, igniting innovative solutions to common problems.
 
 Each Seminar will follow roughly this format:
-- Total of 1,5 hour duration
+- Total duration of 1 hour
 - 10 minutes of welcome & updates
-- 2 x 15 - 20 minute talks (from different themes)
-- Optional 30 min open discussion space, to explore the presentation topics
+- 2 x 15 minute talks (from different themes)
+- 15 min open discussion space, to explore the presentation topics
 
 # Take Part!
 
@@ -30,7 +30,7 @@ We’ve opened an issue in this repository for each topic we’re considering. W
 - Suggest a new topic by [opening a new issue](https://github.com/alan-turing-institute/tric-dt/issues/new?assignees=&labels=0%2F+idea&projects=&template=topic-suggestion-for-tric-dt-event.md&title=%5BTopic%5D)
 
 ## Sign-up as a presenter
-For existing topics, sign up as a presenter by **assigning yourself** to an [issue with label `seminar series`](https://github.com/alan-turing-institute/tric-dt/issues?q=is%3Aopen+is%3Aissue+label%3A%22seminar+series%22) and then **commenting with a title** and a few sentences describing your presentations. We will assign a date to each session, once we have a clear idea of presenters. We're specifically looking for folks from different research areas to present on the same topic, so feel free to make suggestions!
+For existing topics, sign up as a presenter by **assigning yourself** to an [issue with label `seminar series`](https://github.com/alan-turing-institute/tric-dt/issues?q=is%3Aopen+is%3Aissue+label%3A%22seminar+series%22) and then **commenting with a title** and a few sentences describing your presentations. We will assign a date to each session, once we have a clear idea of presenters. We're looking for folks from different research areas to present on the same topic, so feel free to make suggestions!
 
 We will label issues with `0/idea`, `1/in planning`, `2/scheduled` and `3/completed`, so you know which are currently open for contribution.
 
