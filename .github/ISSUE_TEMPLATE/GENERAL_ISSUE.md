@@ -8,7 +8,9 @@ assignees: ''
 ---
 <!-- This issue templated recreated from the [Turing Open Research Community Management github repository](https://github.com/alan-turing-institute/open-research-community-management/tree/main) -->
 
-<!-- If opening a new issue, please complete the following sections. Please note that our Code of Conduct and the contributing guideline applies to this issue. If you have not already, please take a moment to read those documents, including about the project on README page. -->
+<!-- If opening a new issue, please complete the following sections. Please note that [Turing Events Code of 
+Conduct](https://www.turing.ac.uk/events/policies-and-guidelines)  and the contributing 
+guideline applies to this issue. If you have not already, please take a moment to read those documents, including about the project on README page. -->
 
 ### Summary Sentence
 
