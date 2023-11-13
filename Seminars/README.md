@@ -17,6 +17,8 @@ Each Seminar will follow roughly this format:
 - 2 x 15 minute talks (from different themes)
 - 15 min open discussion space, to explore the presentation topics
 
+We collect definitions and helpful explanations for domain-specific terms in our [TRIC-DT Glossary](https://hackmd.io/npUXO9llSDqagVM3SntR_w)
+
 Seminars will be hosted by [Sophie Arana](https://www.turing.ac.uk/people/dr-sophie-arana) & , please email us with any questions!
 
 # Take Part!
