@@ -29,7 +29,8 @@ Upcoming sessions:
 | Date       | Time  | Topic | Room   | Speakers          |
 |------------|-------|-------|--------|-------------------|
 | 2023-11-23 | 13:00 | [Emulators for Scaling-up Simulations](https://github.com/alan-turing-institute/tric-dt/issues/12)   | Remote (Zoom)    | [Marina Strocchi](https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi) & [Martin Stoffel](https://www.turing.ac.uk/people/research-engineering/martin-stoffel)      |
-| 2023-01-07 | 13:00 | TBD   | TBD    | TBD     |
+| 2023-12-14 | 14:00 | Research Roundup | Margaret Hamilton Meeting Room  | all     |
+| 2024-01-?? | 13:00 | tbc | remote | tbc    |
 
 
 ## What should the seminars cover?
