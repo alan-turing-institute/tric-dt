@@ -54,11 +54,6 @@ For existing topics, sign up as a presenter by **assigning yourself** to an [iss
 
 We will label issues with `0/idea`, `1/in planning`, `2/scheduled` and `3/completed`, so you know which are currently open for contribution.
 
-### First seminar presenters
-We are currently finding dates for first seminars in November & December. If you would like to present in November or December, please email sarana@turing.ac.uk for link to the scheduling poll.
-
-
-
 </br>
 
 🚧 **Code of Conduct**  
