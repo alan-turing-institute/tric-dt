@@ -48,7 +48,8 @@ Please contact digitaltwins@turing.ac.uk for all other enquiries to be directed 
 
 ## CONTRIBUTING
 
-Our CONTRIBTING guide is currently in development (see [issue #4](https://github.com/alan-turing-institute/tric-dt/issues/4)).
+**Join our TRIC-DT Seminar Series!** 
+Join us online for our [next seminar](https://github.com/alan-turing-institute/tric-dt/tree/main/Seminars#attend-a-seminar) to hear about the latest foundational and applied research in digital twinning being conducted at Turing. These seminars are an excellent platform to understand the multidisciplinary challenges of Digital Twin research as each seminar brings together two speakers from distinct research domains. We encourage you to share your viewpoints and [suggest new topics](https://github.com/alan-turing-institute/tric-dt/issues/new?assignees=&labels=0%2F+idea&projects=&template=topic-suggestion-for-tric-dt-event.md&title=%5BTopic%5D)!
 
 Please take a look at [our issues](https://github.com/alan-turing-institute/tric-dt/issues) and feel free to comment! 
 
