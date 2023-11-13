@@ -30,7 +30,9 @@ Upcoming sessions:
 |------------|-------|-------|--------|-------------------|
 | 2023-11-23 | 13:00 | [Emulators for Scaling-up Simulations](https://github.com/alan-turing-institute/tric-dt/issues/12)   | Remote (Zoom)    | [Marina Strocchi](https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi) & [Martin Stoffel](https://www.turing.ac.uk/people/research-engineering/martin-stoffel)      |
 | 2023-12-14 | 14:00 | Research Roundup | Margaret Hamilton Meeting Room  | all     |
-| 2024-01-?? | 13:00 | tbc | remote | tbc    |
+| 2024-01-?? | 13:00 | tbc | tbc | tbc    |
+| 2024-02-?? | 13:00 | tbc | tbc | tbc    |
+| 2024-03-28 | 13:00 | Dynamic Knowledge Graphs | tbc | [Xiaoxue Shen](https://digitwin.ac.uk/team/xiaoxue-shen/)    |
 
 
 ## What should the seminars cover?
@@ -39,6 +41,13 @@ We’ve opened an issue in this repository for each topic we’re considering. W
 - Add comment on an existing [topic suggestion issue](https://github.com/alan-turing-institute/tric-dt/issues?q=is%3Aopen+is%3Aissue+label%3A%22seminar+series%22): propose speakers, resources, how would this topic fit into your work?
 - Show your interest in a [topic suggestion issue](https://github.com/alan-turing-institute/tric-dt/issues?q=is%3Aopen+is%3Aissue+label%3A%22seminar+series%22) with a 👍🏼🎉🚀👎🏼😕
 - Suggest a new topic by [opening a new issue](https://github.com/alan-turing-institute/tric-dt/issues/new?assignees=&labels=0%2F+idea&projects=&template=topic-suggestion-for-tric-dt-event.md&title=%5BTopic%5D)
+
+Current topic suggestions:
+- [ ] Relational Databases
+- [ ] Generative Models for DT
+- [ ] Uncertainty Quantification
+- [ ] Dynamic Knowledge Graphs (scheduled)
+- [ ] Gemini Principles
 
 ## Sign-up as a presenter
 For existing topics, sign up as a presenter by **assigning yourself** to an [issue with label `seminar series`](https://github.com/alan-turing-institute/tric-dt/issues?q=is%3Aopen+is%3Aissue+label%3A%22seminar+series%22) and then **commenting with a title** and a few sentences describing your presentations. We will assign a date to each session, once we have a clear idea of presenters. We're looking for folks from different research areas to present on the same topic, so feel free to make suggestions!
