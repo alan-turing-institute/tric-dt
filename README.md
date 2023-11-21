@@ -70,6 +70,13 @@ This repository citation is under development (see [issue #19](https://github.co
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins"><img src="https://avatars.githubusercontent.com/u/43407869?v=4?s=100" width="100px;" alt="Cassandra Gould van Praag"/><br /><sub><b>Cassandra Gould van Praag</b></sub></a><br /><a href="#design-cassgvp" title="Design">🎨</a> <a href="#content-cassgvp" title="Content">🖋</a> <a href="#doc-cassgvp" title="Documentation">📖</a> <a href="#ideas-cassgvp" title="Ideas, Planning, & Feedback">🤔</a> <a href="#maintenance-cassgvp" title="Maintenance">🚧</a> <a href="#mentoring-cassgvp" title="Mentoring">🧑‍🏫</a> <a href="#review-cassgvp" title="Reviewed Pull Requests">👀</a> <a href="#talk-cassgvp" title="Talks">📢</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
