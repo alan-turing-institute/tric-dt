@@ -1,5 +1,7 @@
 # Turing Research and Innovation Cluster in Digital Twins (TRIC-DT)
 
+[![All Contributors](https://img.shields.io/github/all-contributors/alan-turing-institute/tric-dt?color=ee8449&style=flat-square)](#contributors)
+
 Welcome to the the repository for the Turing Research and Innovation Cluster in Digital Twins.
 
 <!-- ![An illustration of a digital twin for a city.](./assets/images/digital-twin.jpg) -->
@@ -53,7 +55,7 @@ Join us online for our [next seminar](https://github.com/alan-turing-institute/t
 
 Please take a look at [our issues](https://github.com/alan-turing-institute/tric-dt/issues) and feel free to comment! 
 
-this project will [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind are welcome!
+This project uses [all-contributors](https://github.com/all-contributors/all-contributors) to give attribution to any contributors to the repository. Contributions of any kind are welcome!
 
 ## LICENSE
 
@@ -63,8 +65,13 @@ This repository licence is to be determined (see [issue #18](https://github.com/
 
 This repository citation is under development (see [issue #19](https://github.com/alan-turing-institute/tric-dt/issues/19)).
 
+## Contributors
 
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
 
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
-
-
+<!-- ALL-CONTRIBUTORS-LIST:END -->
