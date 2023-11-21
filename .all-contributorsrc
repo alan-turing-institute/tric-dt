@@ -1,4 +1,28 @@
 {
   "projectName": "tric-dt",
-  "projectOwner": "alan-turing-institute"
+  "projectOwner": "alan-turing-institute",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "cassgvp",
+      "name": "Cassandra Gould van Praag",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43407869?v=4",
+      "profile": "https://www.turing.ac.uk/research/harnessing-power-digital-twins/turing-research-and-innovation-cluster-digital-twins",
+      "contributions": [
+        "design",
+        "content",
+        "doc",
+        "ideas",
+        "maintenance",
+        "mentoring",
+        "review",
+        "talk"
+      ]
+    }
+  ]
 }
