@@ -2,10 +2,10 @@
 
 The Turing Research and Innovation Cluster in Digital Twins Community makes all of their materials publicly available under open source licenses.
 
-The process documents and data are made available under a CC-BY license.
+The process documents and data are made available under a CC-BY 4.0 license.
 Software are made available under an MIT license.
 
-The  license text listed below (describing both CC-BY and MIT licenses as well as their usage across the content in the Turing Research and Innovation Cluster in Digital Twins's repository) is re-used under a CC-BY license from The Turing Way, which in turn re-used theirs under a CC-BY license from The Carpentries community materials.
+The license text listed below (describing both CC-BY 4.0 and MIT licenses as well as their usage across the content in the Turing Research and Innovation Cluster in Digital Twins's repository) is re-used under a CC-BY 4.0 license from The Turing Way, which in turn re-used theirs under a CC-BY 4.0 license from The Carpentries community materials.
 (Specifically from the [Reproducible Science Curriculum](https://github.com/Reproducible-Science-Curriculum/sharing-RR-Jupyter/blob/gh-pages/LICENSE.md)).
 
 You can read more about licenses [in The Turing Way](https://the-turing-way.netlify.app/reproducible-research/licensing.html).
@@ -27,7 +27,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 Under the following terms:
 
 * **Attribution**---You must give appropriate credit (mentioning that your work is derived from work that is Copyright © Turing Research and Innovation Cluster in Digital Twins Community and, where practical, linking to https://github.com/alan-turing-institute/tric-dt), provide a [link to the license][cc-by-human], and indicate if changes were made.
-  You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+  * You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 * **No additional restrictions**---You may not apply legal terms or technological measures that legally restrict others from doing
 anything the license permits.
   
