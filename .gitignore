@@ -19,3 +19,6 @@ workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 # Python virtual environments
 venv/
 env/
+.venv/
+
+**/_build
