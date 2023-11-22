@@ -21,4 +21,4 @@ venv/
 env/
 .venv/
 
-_build
+**/_build
