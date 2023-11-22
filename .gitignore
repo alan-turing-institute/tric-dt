@@ -20,3 +20,5 @@ workshops/boost-research-reproducibility-binder/workshop-presentations/*pptx
 venv/
 env/
 .venv/
+
+_build
