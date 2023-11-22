@@ -1,6 +1,6 @@
 # How to set up and run our JupyterBook
 
-The following section, from The Turing Way, illustrates the reasons why you'd want to build our JupyterBook locally:
+The following section, from [The Turing Way](https://the-turing-way.netlify.app/community-handbook/local-build), illustrates the reasons why you'd want to build our JupyterBook locally:
 
 > It’s always handy to be able to preview any changes you have been working on as you go - you can be confident that changes you have made are accurate and as intended. A nice way to do this is to use the underlying Jupyter Book tool to build the book locally.
 >
