@@ -1,17 +1,21 @@
 # About this Book
 
-## Navigating and Using this Book
+```{warning} Coming Soon!
+Please note these project pages are a work-in-progress. Content will be added on an ongoing basis.
+```
 
-<!-- add content -->
+<!-- ## Navigating and Using this Book
+
+add content
 
 ## Licensing and Reuse
 
-<!-- add content -->
+add content
 
 ## Citation
 
-<!-- add content -->
+add content
 
 ## Contribution
 
-<!-- add content -->
+add content -->
