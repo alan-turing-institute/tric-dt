@@ -6,13 +6,15 @@ Welcome to the the repository for the Turing Research and Innovation Cluster in 
 
 <!-- ![An illustration of a digital twin for a city.](./assets/images/digital-twin.jpg) -->
 
-This repository will contain the framework for the TRIC-DT [community knowledge commons](https://github.com/alan-turing-institute/tric-dt/issues/6), and engagement activities for the TRIC-DT community. It is managed by the TRIC-DT Hub.
+This repository contains the framework for the TRIC-DT [community knowledge commons](#tric-dt-knowledge-commons), and engagement activities for the TRIC-DT community. 
+It is managed by the [TRIC-DT Hub](#the-tric-dt-hub).
 
 We invite you to collaborate with us!
 
 **Contents**
 - [About the TRIC-DT](#about-the-tric-dt)
 - [The TRIC-DT Hub](#the-tric-dt-hub)
+- [TRIC-DT Knowledge Commons](#tric-dt-knowledge-commons)
 - [Contact us](#contact-us)
 - [CONTRIBUTING](#contributing)
 - [LICENSE](#license)
@@ -20,7 +22,7 @@ We invite you to collaborate with us!
 
 ## About the TRIC-DT
 
-The TRIC-DTs mission is to:
+The TRIC-DTs missions are to:
 1. Carry out fundamental research relating to digital twins (DTs) that addresses the most urgent challenges facing society and achieves real-world impact.
 2. Work in line with and contibute to the sucess of the [Turing 2.0 research and innovation strategy](https://www.turing.ac.uk/about-us/our-strategy). 
 3. Democratise access to DTs through active community management and engagement emplying the [TPS RCM guiding principles](https://github.com/alan-turing-institute/open-research-community-management#rcm-teams-guiding-principles)
@@ -34,13 +36,22 @@ Find out more about the TRIC-DT:
 
 ## The TRIC-DT Hub
 
-The TRIC-DT Innovation and Impact Hub (hereafter, the Hub) supports the delivery of two key outputs of the TRIC-DT
+The TRIC-DT Innovation and Impact Hub (hereafter, the Hub) supports the delivery of two key outputs of the TRIC-DT:
 
 1. Produce open and reproducible computational tools for DT design, development, and deployment that facilitate scaling of DTs and provide these tools as a freely available resource.
 2. Build a multidisciplinary community of practice in digital twinning that democratises access to DT technology.
 
-The Hub team leads and co-develop usable resources that facilitate collaborative impact and innovation that is trustworthy and responsible (e.g. knowledge commons, case studies, skills and capabilities building.
-This work is undertaken alongside focused understanding and evaluation of needs and challenges faced by the TRIC-DT community (e.g. internal and external stakeholder engagement, participatory design workshops for research infrastructure).
+The Hub team leads and co-develop usable resources that facilitate collaborative impact and innovation that is trustworthy and responsible (for example case studies, skills and capabilities building). 
+**These resources are shared with the TRIC-DT community via the [knowledge commons](#tric-dt-knowledge-commons).**
+This work is undertaken alongside focused understanding and evaluation of needs and challenges faced by the TRIC-DT community (for example, internal and external stakeholder engagement, participatory design workshops for research infrastructure), so we can effectivly facilitate the design of activities to meet our stakeholders needs. 
+
+## TRIC-DT Knowledge Commons
+
+The TRIC-DT knowledge commons is our community lead and community contributed repository of tools, resurces and activities which support our aim to "democratise access to DT technologies". This resource is built, managed and maintained in accorance with community-first principles of [The Turing Way](https://the-turing-way.netlify.app/index.html), and shares a similar focus on supporting the TRIC-DT community engage in transparent and reproducible research practices. 
+
+**The knowledge commons is currently under development (see [this issue](https://github.com/alan-turing-institute/tric-dt/issues/6)).
+Please [connect with us](#contact-us) to be kept informed of updates to these resources and opportunities to contribute!**
+
 
 ## Contact us
 
