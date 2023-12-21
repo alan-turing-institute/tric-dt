@@ -42,20 +42,16 @@ The TRIC-DT Innovation and Impact Hub (hereafter, the Hub) supports the delivery
 The Hub team leads and co-develop usable resources that facilitate collaborative impact and innovation that is trustworthy and responsible (e.g. knowledge commons, case studies, skills and capabilities building.
 This work is undertaken alongside focused understanding and evaluation of needs and challenges faced by the TRIC-DT community (e.g. internal and external stakeholder engagement, participatory design workshops for research infrastructure).
 
+## CONTRIBUTING
+See our [CONTRIBUTING guide](./CONTRIBUTING.md) for how you can conenct with this work, and participate in our [Seminare Series](./CONTRIBUTING.md#seminar-series)
+
 ## Contact us
 
 Turing members can join our slack channel #digital-twins in the [Turing Slack workspace](https://mathison.turing.ac.uk/page/2166?SearchId=327870). Any and all questions/comments welcomed! We look forward to speaking with you :)
 
 Please contact digitaltwins@turing.ac.uk for all other enquiries to be directed to an appropriate team member.
 
-## CONTRIBUTING
 
-**Join our TRIC-DT Seminar Series!** 
-Join us online for our [next seminar](https://github.com/alan-turing-institute/tric-dt/tree/main/Seminars#attend-a-seminar) to hear about the latest foundational and applied research in digital twinning being conducted at Turing. These seminars are an excellent platform to understand the multidisciplinary challenges of Digital Twin research as each seminar brings together two speakers from distinct research domains. We encourage you to share your viewpoints and [suggest new topics](https://github.com/alan-turing-institute/tric-dt/issues/new?assignees=&labels=0%2F+idea&projects=&template=topic-suggestion-for-tric-dt-event.md&title=%5BTopic%5D)!
-
-Please take a look at [our issues](https://github.com/alan-turing-institute/tric-dt/issues) and feel free to comment! 
-
-This project uses [all-contributors](https://github.com/all-contributors/all-contributors) to give attribution to any contributors to the repository. Contributions of any kind are welcome!
 
 ## LICENSE
 
