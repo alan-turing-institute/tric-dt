@@ -51,11 +51,9 @@ Turing members can join our slack channel #digital-twins in the [Turing Slack wo
 
 Please contact digitaltwins@turing.ac.uk for all other enquiries to be directed to an appropriate team member.
 
-
-
 ## LICENSE
 
-This repository licence is to be determined (see [issue #18](https://github.com/alan-turing-institute/tric-dt/issues/18)).
+This repository shared under a [CC-BY 4.0 Licence](./LICENSE.md). 
 
 ## CITATION
 
