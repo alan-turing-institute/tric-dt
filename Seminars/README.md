@@ -32,8 +32,6 @@ Upcoming sessions:
 |------------|-------|-------|--------|-------------------|
 | 2023-11-23 | 13:00 | [Emulators for Scaling-up Simulations](https://github.com/alan-turing-institute/tric-dt/issues/12)   | Remote (Zoom)    | [Marina Strocchi](https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi) & [Martin Stoffel](https://www.turing.ac.uk/people/research-engineering/martin-stoffel)      |
 | 2023-12-14 | 14:00 | Research Roundup | Margaret Hamilton Meeting Room  | all     |
-| 2024-01-?? | 13:00 | tbc | tbc | tbc    |
-| 2024-02-?? | 13:00 | tbc | tbc | tbc    |
 | 2024-03-28 | 13:00 | Dynamic Knowledge Graphs | tbc | [Xiaoxue Shen](https://digitwin.ac.uk/team/xiaoxue-shen/)    |
 
 
