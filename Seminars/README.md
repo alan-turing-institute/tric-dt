@@ -28,11 +28,11 @@ Please join the Turing Digital Twins slack channel (#digital-twins) and stay tun
 
 Upcoming sessions:
 
-| Date       | Time  | Topic | Room   | Speakers          |
-|------------|-------|-------|--------|-------------------|
-| 2023-11-23 | 13:00 | [Emulators for Scaling-up Simulations](https://github.com/alan-turing-institute/tric-dt/issues/12)   | Remote (Zoom)    | [Marina Strocchi](https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi) & [Martin Stoffel](https://www.turing.ac.uk/people/research-engineering/martin-stoffel)      |
-| 2023-12-14 | 14:00 | Research Roundup | Margaret Hamilton Meeting Room  | all     |
-| 2024-03-28 | 13:00 | Dynamic Knowledge Graphs | tbc | [Xiaoxue Shen](https://digitwin.ac.uk/team/xiaoxue-shen/)    |
+| Date       | Time  | Topic | Room   | Speakers          | Notes | Slides
+|------------|-------|-------|--------|-------------------|-------|-------
+| 2023-11-23 | 13:00 | [Emulators for Scaling-up Simulations](https://github.com/alan-turing-institute/tric-dt/issues/12)   | Remote (Zoom)    | [Marina Strocchi](https://kclpure.kcl.ac.uk/portal/en/persons/marina-strocchi) & [Martin Stoffel](https://www.turing.ac.uk/people/research-engineering/martin-stoffel)      | [HackMD](https://hackmd.io/ym-FDwrZQpuZkMDMQkMDXQ?view) | [autoemulate slides](https://zenodo.org/records/10174843)
+| 2023-12-14 | 14:00 | Research Roundup | Margaret Hamilton Meeting Room  | Ben Evans, Jonathan Smith, Marina Strocchi, Abdul Quayyum, Ludovica Cicci, Rosie Barrows, Xiaoxue Shen, Ziad Ghauch | [HackMD](https://hackmd.io/NWDa2jA9QsWcunW-y0cyQA)     | [full  slidedeck](https://thealanturininstitute-my.sharepoint.com/:p:/g/personal/sarana_turing_ac_uk/Easrl8wjIE5BuYXWumpo2FMBjKyjlBLUrBAJq-bEZ-gBlw?e=hlgtfM)|
+| 2024-05-2 | 10am - 3pm | Data ingress &  Knowledge Graphs | Ada Lovelace | [Xiaoxue Shen](https://digitwin.ac.uk/team/xiaoxue-shen/)    |
 
 
 ## What should the seminars cover?
