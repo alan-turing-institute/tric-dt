@@ -2,7 +2,7 @@
 ## 1. How to Get Someone Scheduled for a Seminar
 
 - [ ] Log your topic idea through our [GitHub issue template](https://github.com/alan-turing-institute/tric-dt/issues/new?assignees=&labels=0%2F+idea&projects=&template=topic-suggestion-for-tric-dt-event.md&title=%5BTopic%5D).
-- [ ] Ask your speaker contact to provide additional topic info (as defined in GitHub issue), find an [email template here](Seminars/email_template_new_topic.md). (comms)
+- [ ] Ask your speaker contact to provide additional topic info (as defined in GitHub issue), find an [email template here](../email_template_new_topic.md). (comms)
 - [ ] Tag a RAM or RCM in the issue for awareness.
 - [ ] RAM/RCM includes topics in the next TRIC-DT community newsletter to poll interest & potential speaker pairings (comms).
 - [ ] Decide if this topic will be a remote-first seminar talk + Q&A or if it is suitable for a half-day event with multiple contributions.
