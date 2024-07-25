@@ -1,0 +1,43 @@
+format: jb-book
+root: intro
+parts:
+- caption: About
+  chapters:
+  - file: about/tric-dt
+    title: About the TRIC-DT
+    sections:
+      - file: about/tric-dt/themes.md
+        title: Thematic Areas
+      - file: about/tric-dt/structure
+        title: Structure of the TRIC-DT
+      - file: about/tric-dt/hub.md
+        title: Innovation and Impact Hub
+  - file: about/book
+    title: About this Book
+- caption: Projects
+  chapters:
+  - file: projects/index
+    title: List of Projects
+- caption: Resources
+  chapters:
+  - file: resources/index
+    title: List of Resources
+- caption: Community News and Events
+  chapters:
+  - file: news/news
+    title: TRIC-DT Community News
+  - file: news/events
+    title: Events List
+- caption: Ways of Working
+  chapters:
+  - file: ways-of-working/index
+    title: Our Ways of Working
+  - file: ways-of-working/context
+    title: Context and Background
+  - file: ways-of-working/values
+    title: Values and Principles
+    sections:
+      - file: ways-of-working/values/research-community
+        title: Research Community Management
+      - file: ways-of-working/values/research-application
+        title: Research Application Management
